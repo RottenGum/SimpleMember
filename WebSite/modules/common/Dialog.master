@@ -1,0 +1,24 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Dialog.master.cs" Inherits="modules_Dialog" %>
+<%@ Register TagPrefix="uc" TagName="CssScriptQuote" Src="~/modules/common/CssScriptQuote.ascx" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="head" runat="server">
+	<title>AdminPage</title>
+	<asp:ContentPlaceHolder ID="header" runat="server"></asp:ContentPlaceHolder>
+</head>
+
+<body>
+
+<div class="ui-dialog">
+	<section>
+		<asp:ContentPlaceHolder ID="content" runat="server"></asp:ContentPlaceHolder>
+	</section>
+	<header class="toolbar" style="text-align:right;">
+		<span class="fun">
+			<asp:ContentPlaceHolder ID="toolbar" runat="server"></asp:ContentPlaceHolder>
+		</span>
+	</header>
+</div>
+
+</body>
+</html>

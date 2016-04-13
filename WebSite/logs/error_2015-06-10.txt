@@ -1,0 +1,517 @@
+[ 2015-06-10 11:00:23 ] 应用程序错误！
+Message: d:\游戏\白日梦\亮剑\SourceCode\WebSite\getWeather.aspx.cs(1): error ASPNET: 请确保此代码文件中定义的类与“inherits”特性匹配，并且该类扩展的基类(例如 Page 或 UserControl)是正确的。
+StackTrace:    在 System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.System.Web.IHttpHandlerFactory2.GetHandler(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.HttpApplication.MapHttpHandler(HttpContext context, String requestType, VirtualPath path, String pathTranslated, Boolean useAppConfig)
+   在 System.Web.HttpApplication.MapHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:10:18 ] 应用程序错误！
+Message: 文件不存在。
+StackTrace:    在 System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   在 System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:11:42 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:12:12 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:12:42 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:13:12 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:13:43 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:14:12 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:14:42 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:15:54 ] 应用程序错误！
+Message: 文件不存在。
+StackTrace:    在 System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   在 System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:16:30 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:17:00 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:17:36 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:18:06 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:18:36 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:19:06 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:19:33 ] 应用程序错误！
+Message: 文件不存在。
+StackTrace:    在 System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   在 System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:19:37 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:20:06 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:20:09 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:20:36 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:20:39 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:21:06 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:21:09 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:21:36 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:21:39 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:22:06 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:22:35 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:22:36 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:23:05 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:23:06 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:23:35 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:23:36 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:24:05 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:24:06 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:24:35 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:24:54 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:25:05 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:25:24 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:25:35 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:26:05 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:26:11 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:26:35 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:26:41 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:27:05 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:27:11 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:27:35 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:27:41 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:28:05 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:28:11 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:28:36 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:28:41 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:29:05 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:29:11 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:29:36 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:29:41 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:30:05 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:30:11 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:30:35 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:30:41 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:31:05 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:31:11 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:31:35 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:31:41 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:32:05 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:32:11 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:32:35 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:32:41 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:33:05 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:33:11 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:33:35 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:33:41 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:34:05 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:34:11 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:34:35 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:34:41 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:35:05 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:35:11 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:35:35 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:35:41 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:36:05 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:36:11 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:36:36 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
+[ 2015-06-10 11:36:41 ] 应用程序错误！
+Message: 不允许用于访问路径“/WebSite/api/chart-reg-analyze”的 HTTP 谓词 POST。
+StackTrace:    在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+------------------------------
